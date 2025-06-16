@@ -1,0 +1,5502 @@
+[
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 44,
+      "time_match_score": 0.51,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 98,
+      "time_match_score": 0.44,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 48,
+      "time_match_score": 0.23,
+      "author_branch_similarity": false
+    },
+    "label": 0.32
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 41,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 81,
+      "time_match_score": 0.35,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 9,
+      "time_match_score": 0.45,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 42,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 68,
+      "time_match_score": 0.6,
+      "author_branch_similarity": true
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 96,
+      "time_match_score": 0.51,
+      "author_branch_similarity": true
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 56,
+      "time_match_score": 0.22,
+      "author_branch_similarity": false
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 30,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 2,
+      "time_match_score": 0.51,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 2,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 39,
+      "time_match_score": 0.58,
+      "author_branch_similarity": false
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 46,
+      "time_match_score": 0.31,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 27,
+      "time_match_score": 0.22,
+      "author_branch_similarity": true
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 77,
+      "time_match_score": 0.55,
+      "author_branch_similarity": true
+    },
+    "label": 0.46
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 47,
+      "time_match_score": 0.44,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 17,
+      "time_match_score": 0.57,
+      "author_branch_similarity": true
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 32,
+      "time_match_score": 0.27,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 83,
+      "time_match_score": 0.41,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 41,
+      "time_match_score": 0.27,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 47,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 83,
+      "time_match_score": 0.32,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 69,
+      "time_match_score": 0.56,
+      "author_branch_similarity": true
+    },
+    "label": 0.46
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 68,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 19,
+      "time_match_score": 0.55,
+      "author_branch_similarity": true
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 71,
+      "time_match_score": 0.55,
+      "author_branch_similarity": true
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 39,
+      "time_match_score": 0.48,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 25,
+      "time_match_score": 0.25,
+      "author_branch_similarity": true
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 50,
+      "time_match_score": 0.55,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 62,
+      "time_match_score": 0.3,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 32,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 42,
+      "time_match_score": 0.56,
+      "author_branch_similarity": true
+    },
+    "label": 0.36
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 11,
+      "time_match_score": 0.51,
+      "author_branch_similarity": false
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 85,
+      "time_match_score": 0.45,
+      "author_branch_similarity": true
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 75,
+      "time_match_score": 0.54,
+      "author_branch_similarity": false
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 89,
+      "time_match_score": 0.31,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 57,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 85,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 58,
+      "time_match_score": 0.29,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 31,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 67,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 64,
+      "time_match_score": 0.27,
+      "author_branch_similarity": false
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 78,
+      "time_match_score": 0.52,
+      "author_branch_similarity": true
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 91,
+      "time_match_score": 0.47,
+      "author_branch_similarity": true
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 3,
+      "time_match_score": 0.43,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 4,
+      "time_match_score": 0.49,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 84,
+      "time_match_score": 0.37,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 68,
+      "time_match_score": 0.37,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 56,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.5
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 0,
+      "time_match_score": 0.45,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 24,
+      "time_match_score": 0.49,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 3,
+      "time_match_score": 0.3,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 5,
+      "time_match_score": 0.39,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 12,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 79,
+      "time_match_score": 0.45,
+      "author_branch_similarity": false
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 61,
+      "time_match_score": 0.38,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 63,
+      "time_match_score": 0.49,
+      "author_branch_similarity": false
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 67,
+      "time_match_score": 0.24,
+      "author_branch_similarity": true
+    },
+    "label": 0.42
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 92,
+      "time_match_score": 0.22,
+      "author_branch_similarity": false
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 27,
+      "time_match_score": 0.36,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 85,
+      "time_match_score": 0.55,
+      "author_branch_similarity": false
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 7,
+      "time_match_score": 0.43,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 13,
+      "time_match_score": 0.44,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 76,
+      "time_match_score": 0.47,
+      "author_branch_similarity": true
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 20,
+      "time_match_score": 0.36,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 25,
+      "time_match_score": 0.33,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 6,
+      "time_match_score": 0.51,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 29,
+      "time_match_score": 0.29,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 48,
+      "time_match_score": 0.46,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 95,
+      "time_match_score": 0.27,
+      "author_branch_similarity": false
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 33,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 18,
+      "time_match_score": 0.56,
+      "author_branch_similarity": true
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 50,
+      "time_match_score": 0.49,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 33,
+      "time_match_score": 0.54,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 20,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 13,
+      "time_match_score": 0.52,
+      "author_branch_similarity": false
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 83,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.5
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 88,
+      "time_match_score": 0.3,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 18,
+      "time_match_score": 0.36,
+      "author_branch_similarity": true
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 91,
+      "time_match_score": 0.57,
+      "author_branch_similarity": false
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 30,
+      "time_match_score": 0.39,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 55,
+      "time_match_score": 0.29,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 73,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 18,
+      "time_match_score": 0.57,
+      "author_branch_similarity": true
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 6,
+      "time_match_score": 0.42,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 16,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 48,
+      "time_match_score": 0.48,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 85,
+      "time_match_score": 0.48,
+      "author_branch_similarity": true
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 68,
+      "time_match_score": 0.43,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 37,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 32,
+      "time_match_score": 0.29,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 98,
+      "time_match_score": 0.55,
+      "author_branch_similarity": true
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 35,
+      "time_match_score": 0.28,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 28,
+      "time_match_score": 0.48,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 59,
+      "time_match_score": 0.21,
+      "author_branch_similarity": false
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 2,
+      "time_match_score": 0.54,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 56,
+      "time_match_score": 0.29,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 26,
+      "time_match_score": 0.56,
+      "author_branch_similarity": false
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 44,
+      "time_match_score": 0.38,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 82,
+      "time_match_score": 0.4,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 47,
+      "time_match_score": 0.48,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 64,
+      "time_match_score": 0.49,
+      "author_branch_similarity": false
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 4,
+      "time_match_score": 0.4,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 51,
+      "time_match_score": 0.4,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 1,
+      "time_match_score": 0.22,
+      "author_branch_similarity": false
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 36,
+      "time_match_score": 0.43,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 84,
+      "time_match_score": 0.34,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 11,
+      "time_match_score": 0.26,
+      "author_branch_similarity": true
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 37,
+      "time_match_score": 0.41,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 11,
+      "time_match_score": 0.46,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 48,
+      "time_match_score": 0.49,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 77,
+      "time_match_score": 0.4,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 66,
+      "time_match_score": 0.53,
+      "author_branch_similarity": false
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 41,
+      "time_match_score": 0.25,
+      "author_branch_similarity": false
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 91,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 52,
+      "time_match_score": 0.36,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 82,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 69,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 52,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 82,
+      "time_match_score": 0.43,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 58,
+      "time_match_score": 0.22,
+      "author_branch_similarity": true
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 33,
+      "time_match_score": 0.56,
+      "author_branch_similarity": false
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 37,
+      "time_match_score": 0.3,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 81,
+      "time_match_score": 0.55,
+      "author_branch_similarity": true
+    },
+    "label": 0.46
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 66,
+      "time_match_score": 0.25,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 0,
+      "time_match_score": 0.39,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 99,
+      "time_match_score": 0.35,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 89,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 69,
+      "time_match_score": 0.26,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 93,
+      "time_match_score": 0.51,
+      "author_branch_similarity": false
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 38,
+      "time_match_score": 0.54,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 26,
+      "time_match_score": 0.42,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 49,
+      "time_match_score": 0.34,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 12,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 20,
+      "time_match_score": 0.21,
+      "author_branch_similarity": true
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 80,
+      "time_match_score": 0.29,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 44,
+      "time_match_score": 0.51,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 1,
+      "time_match_score": 0.31,
+      "author_branch_similarity": true
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 85,
+      "time_match_score": 0.58,
+      "author_branch_similarity": false
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 46,
+      "time_match_score": 0.3,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 65,
+      "time_match_score": 0.23,
+      "author_branch_similarity": true
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 99,
+      "time_match_score": 0.36,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 63,
+      "time_match_score": 0.28,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 85,
+      "time_match_score": 0.23,
+      "author_branch_similarity": false
+    },
+    "label": 0.42
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 82,
+      "time_match_score": 0.58,
+      "author_branch_similarity": true
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 26,
+      "time_match_score": 0.28,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 89,
+      "time_match_score": 0.6,
+      "author_branch_similarity": true
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 27,
+      "time_match_score": 0.56,
+      "author_branch_similarity": true
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 61,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.5
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 7,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 90,
+      "time_match_score": 0.59,
+      "author_branch_similarity": true
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 42,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 22,
+      "time_match_score": 0.42,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 11,
+      "time_match_score": 0.45,
+      "author_branch_similarity": true
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 74,
+      "time_match_score": 0.56,
+      "author_branch_similarity": false
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 22,
+      "time_match_score": 0.37,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 92,
+      "time_match_score": 0.44,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 58,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 5,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 67,
+      "time_match_score": 0.49,
+      "author_branch_similarity": true
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 44,
+      "time_match_score": 0.28,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 42,
+      "time_match_score": 0.31,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 75,
+      "time_match_score": 0.37,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 39,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 94,
+      "time_match_score": 0.52,
+      "author_branch_similarity": true
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 78,
+      "time_match_score": 0.42,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 6,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 82,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 5,
+      "time_match_score": 0.48,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 69,
+      "time_match_score": 0.27,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 56,
+      "time_match_score": 0.3,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 30,
+      "time_match_score": 0.46,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 45,
+      "time_match_score": 0.49,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 24,
+      "time_match_score": 0.53,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 70,
+      "time_match_score": 0.51,
+      "author_branch_similarity": true
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 36,
+      "time_match_score": 0.41,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 100,
+      "time_match_score": 0.44,
+      "author_branch_similarity": false
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 24,
+      "time_match_score": 0.35,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 19,
+      "time_match_score": 0.33,
+      "author_branch_similarity": true
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 23,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 96,
+      "time_match_score": 0.57,
+      "author_branch_similarity": true
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 36,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 32,
+      "time_match_score": 0.27,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 59,
+      "time_match_score": 0.35,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": true,
+      "content_type": "image",
+      "karma": 59,
+      "time_match_score": 0.4,
+      "author_branch_similarity": false
+    },
+    "label": 0.94
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 99,
+      "time_match_score": 0.29,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 34,
+      "time_match_score": 0.46,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 80,
+      "time_match_score": 0.6,
+      "author_branch_similarity": true
+    },
+    "label": 0.46
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 83,
+      "time_match_score": 0.33,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 35,
+      "time_match_score": 0.47,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 47,
+      "time_match_score": 0.54,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 65,
+      "time_match_score": 0.49,
+      "author_branch_similarity": true
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 44,
+      "time_match_score": 0.25,
+      "author_branch_similarity": true
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 6,
+      "time_match_score": 0.5,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 38,
+      "time_match_score": 0.36,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 40,
+      "time_match_score": 0.25,
+      "author_branch_similarity": true
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 16,
+      "time_match_score": 0.46,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 79,
+      "time_match_score": 0.36,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 87,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.5
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 86,
+      "time_match_score": 0.53,
+      "author_branch_similarity": false
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 72,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 57,
+      "time_match_score": 0.23,
+      "author_branch_similarity": false
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 37,
+      "time_match_score": 0.39,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 81,
+      "time_match_score": 0.32,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 33,
+      "time_match_score": 0.28,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 14,
+      "time_match_score": 0.21,
+      "author_branch_similarity": false
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 7,
+      "time_match_score": 0.47,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 92,
+      "time_match_score": 0.54,
+      "author_branch_similarity": false
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 74,
+      "time_match_score": 0.47,
+      "author_branch_similarity": false
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 26,
+      "time_match_score": 0.41,
+      "author_branch_similarity": true
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 19,
+      "time_match_score": 0.35,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 53,
+      "time_match_score": 0.26,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 92,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.5
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 74,
+      "time_match_score": 0.38,
+      "author_branch_similarity": false
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 30,
+      "time_match_score": 0.59,
+      "author_branch_similarity": false
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 57,
+      "time_match_score": 0.45,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 84,
+      "time_match_score": 0.37,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 26,
+      "time_match_score": 0.47,
+      "author_branch_similarity": false
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 39,
+      "time_match_score": 0.53,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 27,
+      "time_match_score": 0.49,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 2,
+      "time_match_score": 0.45,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 86,
+      "time_match_score": 0.35,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 26,
+      "time_match_score": 0.6,
+      "author_branch_similarity": false
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 27,
+      "time_match_score": 0.51,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 73,
+      "time_match_score": 0.36,
+      "author_branch_similarity": false
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 46,
+      "time_match_score": 0.38,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 9,
+      "time_match_score": 0.37,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 45,
+      "time_match_score": 0.34,
+      "author_branch_similarity": true
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 74,
+      "time_match_score": 0.36,
+      "author_branch_similarity": true
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 63,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.5
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 75,
+      "time_match_score": 0.33,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 38,
+      "time_match_score": 0.25,
+      "author_branch_similarity": true
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 4,
+      "time_match_score": 0.52,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 87,
+      "time_match_score": 0.49,
+      "author_branch_similarity": true
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 88,
+      "time_match_score": 0.25,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 93,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 93,
+      "time_match_score": 0.35,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 84,
+      "time_match_score": 0.42,
+      "author_branch_similarity": true
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 97,
+      "time_match_score": 0.23,
+      "author_branch_similarity": true
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 65,
+      "time_match_score": 0.51,
+      "author_branch_similarity": true
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 62,
+      "time_match_score": 0.51,
+      "author_branch_similarity": false
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 96,
+      "time_match_score": 0.23,
+      "author_branch_similarity": false
+    },
+    "label": 0.42
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 5,
+      "time_match_score": 0.44,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 73,
+      "time_match_score": 0.49,
+      "author_branch_similarity": false
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 80,
+      "time_match_score": 0.42,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 78,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 15,
+      "time_match_score": 0.27,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 42,
+      "time_match_score": 0.51,
+      "author_branch_similarity": false
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 55,
+      "time_match_score": 0.22,
+      "author_branch_similarity": true
+    },
+    "label": 0.42
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 66,
+      "time_match_score": 0.53,
+      "author_branch_similarity": true
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 82,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 47,
+      "time_match_score": 0.57,
+      "author_branch_similarity": false
+    },
+    "label": 0.36
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 61,
+      "time_match_score": 0.33,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 13,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 48,
+      "time_match_score": 0.49,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 46,
+      "time_match_score": 0.44,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 39,
+      "time_match_score": 0.35,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 35,
+      "time_match_score": 0.48,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 0,
+      "time_match_score": 0.45,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 87,
+      "time_match_score": 0.24,
+      "author_branch_similarity": true
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 0,
+      "time_match_score": 0.29,
+      "author_branch_similarity": false
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 46,
+      "time_match_score": 0.43,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 90,
+      "time_match_score": 0.55,
+      "author_branch_similarity": false
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 95,
+      "time_match_score": 0.32,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 2,
+      "time_match_score": 0.34,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 91,
+      "time_match_score": 0.32,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 64,
+      "time_match_score": 0.28,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 62,
+      "time_match_score": 0.4,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 18,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 59,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 10,
+      "time_match_score": 0.39,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 64,
+      "time_match_score": 0.37,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 25,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 64,
+      "time_match_score": 0.54,
+      "author_branch_similarity": true
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 56,
+      "time_match_score": 0.42,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 49,
+      "time_match_score": 0.35,
+      "author_branch_similarity": true
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 62,
+      "time_match_score": 0.48,
+      "author_branch_similarity": false
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 77,
+      "time_match_score": 0.39,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 70,
+      "time_match_score": 0.38,
+      "author_branch_similarity": true
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 74,
+      "time_match_score": 0.34,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 31,
+      "time_match_score": 0.36,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 39,
+      "time_match_score": 0.38,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 35,
+      "time_match_score": 0.49,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 26,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 13,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 34,
+      "time_match_score": 0.3,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 72,
+      "time_match_score": 0.39,
+      "author_branch_similarity": false
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 23,
+      "time_match_score": 0.43,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 94,
+      "time_match_score": 0.24,
+      "author_branch_similarity": false
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 99,
+      "time_match_score": 0.43,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 21,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 65,
+      "time_match_score": 0.52,
+      "author_branch_similarity": true
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 26,
+      "time_match_score": 0.59,
+      "author_branch_similarity": false
+    },
+    "label": 0.36
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 100,
+      "time_match_score": 0.53,
+      "author_branch_similarity": false
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 73,
+      "time_match_score": 0.56,
+      "author_branch_similarity": false
+    },
+    "label": 0.46
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 42,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 28,
+      "time_match_score": 0.46,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 80,
+      "time_match_score": 0.28,
+      "author_branch_similarity": false
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 84,
+      "time_match_score": 0.53,
+      "author_branch_similarity": true
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 19,
+      "time_match_score": 0.46,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 72,
+      "time_match_score": 0.38,
+      "author_branch_similarity": false
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 11,
+      "time_match_score": 0.36,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 29,
+      "time_match_score": 0.47,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 35,
+      "time_match_score": 0.47,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 55,
+      "time_match_score": 0.43,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 72,
+      "time_match_score": 0.2,
+      "author_branch_similarity": false
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 58,
+      "time_match_score": 0.3,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 89,
+      "time_match_score": 0.55,
+      "author_branch_similarity": false
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 46,
+      "time_match_score": 0.41,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 61,
+      "time_match_score": 0.44,
+      "author_branch_similarity": true
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 83,
+      "time_match_score": 0.53,
+      "author_branch_similarity": false
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 6,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 10,
+      "time_match_score": 0.29,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 8,
+      "time_match_score": 0.35,
+      "author_branch_similarity": false
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 85,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 80,
+      "time_match_score": 0.53,
+      "author_branch_similarity": false
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 29,
+      "time_match_score": 0.46,
+      "author_branch_similarity": false
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 99,
+      "time_match_score": 0.27,
+      "author_branch_similarity": false
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 79,
+      "time_match_score": 0.31,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 0,
+      "time_match_score": 0.37,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 9,
+      "time_match_score": 0.31,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 100,
+      "time_match_score": 0.3,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 24,
+      "time_match_score": 0.32,
+      "author_branch_similarity": true
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 52,
+      "time_match_score": 0.24,
+      "author_branch_similarity": false
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 29,
+      "time_match_score": 0.24,
+      "author_branch_similarity": true
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 93,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 5,
+      "time_match_score": 0.23,
+      "author_branch_similarity": true
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 50,
+      "time_match_score": 0.4,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 73,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 83,
+      "time_match_score": 0.42,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 8,
+      "time_match_score": 0.41,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 87,
+      "time_match_score": 0.56,
+      "author_branch_similarity": true
+    },
+    "label": 0.46
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 35,
+      "time_match_score": 0.48,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 4,
+      "time_match_score": 0.35,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 85,
+      "time_match_score": 0.4,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 37,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 52,
+      "time_match_score": 0.31,
+      "author_branch_similarity": false
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 28,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 45,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 84,
+      "time_match_score": 0.27,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 64,
+      "time_match_score": 0.53,
+      "author_branch_similarity": true
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 26,
+      "time_match_score": 0.31,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 5,
+      "time_match_score": 0.49,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 55,
+      "time_match_score": 0.31,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 20,
+      "time_match_score": 0.22,
+      "author_branch_similarity": true
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 61,
+      "time_match_score": 0.52,
+      "author_branch_similarity": true
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 26,
+      "time_match_score": 0.39,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 31,
+      "time_match_score": 0.29,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 66,
+      "time_match_score": 0.28,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 45,
+      "time_match_score": 0.21,
+      "author_branch_similarity": true
+    },
+    "label": 0.32
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 100,
+      "time_match_score": 0.22,
+      "author_branch_similarity": true
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 17,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 77,
+      "time_match_score": 0.37,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 25,
+      "time_match_score": 0.42,
+      "author_branch_similarity": true
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 89,
+      "time_match_score": 0.55,
+      "author_branch_similarity": true
+    },
+    "label": 0.46
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 58,
+      "time_match_score": 0.31,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 32,
+      "time_match_score": 0.39,
+      "author_branch_similarity": true
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 33,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 54,
+      "time_match_score": 0.35,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 80,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 60,
+      "time_match_score": 0.25,
+      "author_branch_similarity": false
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 71,
+      "time_match_score": 0.58,
+      "author_branch_similarity": true
+    },
+    "label": 0.46
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 3,
+      "time_match_score": 0.38,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 0,
+      "time_match_score": 0.57,
+      "author_branch_similarity": false
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 100,
+      "time_match_score": 0.5,
+      "author_branch_similarity": true
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 10,
+      "time_match_score": 0.27,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 43,
+      "time_match_score": 0.27,
+      "author_branch_similarity": true
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 63,
+      "time_match_score": 0.31,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 80,
+      "time_match_score": 0.42,
+      "author_branch_similarity": true
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 28,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 91,
+      "time_match_score": 0.25,
+      "author_branch_similarity": true
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 4,
+      "time_match_score": 0.35,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 14,
+      "time_match_score": 0.26,
+      "author_branch_similarity": false
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 77,
+      "time_match_score": 0.56,
+      "author_branch_similarity": true
+    },
+    "label": 0.46
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 90,
+      "time_match_score": 0.35,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 19,
+      "time_match_score": 0.22,
+      "author_branch_similarity": true
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 72,
+      "time_match_score": 0.38,
+      "author_branch_similarity": true
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 97,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.5
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 1,
+      "time_match_score": 0.23,
+      "author_branch_similarity": true
+    },
+    "label": 0.32
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 19,
+      "time_match_score": 0.2,
+      "author_branch_similarity": false
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 33,
+      "time_match_score": 0.54,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 100,
+      "time_match_score": 0.56,
+      "author_branch_similarity": true
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 65,
+      "time_match_score": 0.29,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 86,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 34,
+      "time_match_score": 0.54,
+      "author_branch_similarity": false
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 33,
+      "time_match_score": 0.26,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 94,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.5
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 92,
+      "time_match_score": 0.38,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 70,
+      "time_match_score": 0.36,
+      "author_branch_similarity": false
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 66,
+      "time_match_score": 0.31,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 28,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 16,
+      "time_match_score": 0.27,
+      "author_branch_similarity": false
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 88,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.5
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 34,
+      "time_match_score": 0.33,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 18,
+      "time_match_score": 0.45,
+      "author_branch_similarity": true
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 47,
+      "time_match_score": 0.53,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 39,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 39,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 52,
+      "time_match_score": 0.32,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 78,
+      "time_match_score": 0.24,
+      "author_branch_similarity": false
+    },
+    "label": 0.42
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 74,
+      "time_match_score": 0.34,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 59,
+      "time_match_score": 0.22,
+      "author_branch_similarity": true
+    },
+    "label": 0.42
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 20,
+      "time_match_score": 0.3,
+      "author_branch_similarity": true
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 30,
+      "time_match_score": 0.42,
+      "author_branch_similarity": false
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 86,
+      "time_match_score": 0.58,
+      "author_branch_similarity": true
+    },
+    "label": 0.46
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 53,
+      "time_match_score": 0.32,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 27,
+      "time_match_score": 0.56,
+      "author_branch_similarity": true
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 96,
+      "time_match_score": 0.24,
+      "author_branch_similarity": false
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 88,
+      "time_match_score": 0.36,
+      "author_branch_similarity": false
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 0,
+      "time_match_score": 0.28,
+      "author_branch_similarity": true
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 55,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.5
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 1,
+      "time_match_score": 0.39,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 21,
+      "time_match_score": 0.24,
+      "author_branch_similarity": false
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 40,
+      "time_match_score": 0.34,
+      "author_branch_similarity": true
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 48,
+      "time_match_score": 0.54,
+      "author_branch_similarity": false
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 4,
+      "time_match_score": 0.46,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 58,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.5
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 20,
+      "time_match_score": 0.23,
+      "author_branch_similarity": false
+    },
+    "label": 0.32
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 43,
+      "time_match_score": 0.22,
+      "author_branch_similarity": true
+    },
+    "label": 0.32
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 95,
+      "time_match_score": 0.51,
+      "author_branch_similarity": false
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 93,
+      "time_match_score": 0.24,
+      "author_branch_similarity": true
+    },
+    "label": 0.42
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 43,
+      "time_match_score": 0.6,
+      "author_branch_similarity": false
+    },
+    "label": 0.36
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 81,
+      "time_match_score": 0.51,
+      "author_branch_similarity": true
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 96,
+      "time_match_score": 0.4,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 94,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.5
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 21,
+      "time_match_score": 0.34,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 75,
+      "time_match_score": 0.4,
+      "author_branch_similarity": true
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 49,
+      "time_match_score": 0.33,
+      "author_branch_similarity": true
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 49,
+      "time_match_score": 0.3,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 97,
+      "time_match_score": 0.34,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 90,
+      "time_match_score": 0.45,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 36,
+      "time_match_score": 0.43,
+      "author_branch_similarity": true
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 98,
+      "time_match_score": 0.41,
+      "author_branch_similarity": false
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 80,
+      "time_match_score": 0.4,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 66,
+      "time_match_score": 0.43,
+      "author_branch_similarity": false
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 58,
+      "time_match_score": 0.48,
+      "author_branch_similarity": true
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 48,
+      "time_match_score": 0.3,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 80,
+      "time_match_score": 0.28,
+      "author_branch_similarity": true
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 15,
+      "time_match_score": 0.52,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 97,
+      "time_match_score": 0.43,
+      "author_branch_similarity": true
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 82,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.5
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 35,
+      "time_match_score": 0.29,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 40,
+      "time_match_score": 0.49,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 50,
+      "time_match_score": 0.37,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 51,
+      "time_match_score": 0.59,
+      "author_branch_similarity": true
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 90,
+      "time_match_score": 0.39,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 92,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 77,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 99,
+      "time_match_score": 0.24,
+      "author_branch_similarity": true
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 98,
+      "time_match_score": 0.23,
+      "author_branch_similarity": false
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 56,
+      "time_match_score": 0.26,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 77,
+      "time_match_score": 0.3,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 3,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 49,
+      "time_match_score": 0.22,
+      "author_branch_similarity": false
+    },
+    "label": 0.32
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 76,
+      "time_match_score": 0.23,
+      "author_branch_similarity": false
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 98,
+      "time_match_score": 0.59,
+      "author_branch_similarity": true
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 2,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 7,
+      "time_match_score": 0.39,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 48,
+      "time_match_score": 0.22,
+      "author_branch_similarity": false
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 37,
+      "time_match_score": 0.3,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 39,
+      "time_match_score": 0.57,
+      "author_branch_similarity": false
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 51,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 29,
+      "time_match_score": 0.51,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 92,
+      "time_match_score": 0.54,
+      "author_branch_similarity": false
+    },
+    "label": 0.75
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 51,
+      "time_match_score": 0.51,
+      "author_branch_similarity": false
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 92,
+      "time_match_score": 0.38,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 1,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 85,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 73,
+      "time_match_score": 0.29,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 40,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.4
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 15,
+      "time_match_score": 0.46,
+      "author_branch_similarity": true
+    },
+    "label": 0.35
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 45,
+      "time_match_score": 0.5,
+      "author_branch_similarity": false
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 57,
+      "time_match_score": 0.24,
+      "author_branch_similarity": false
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 2,
+      "time_match_score": 0.3,
+      "author_branch_similarity": true
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 96,
+      "time_match_score": 0.39,
+      "author_branch_similarity": true
+    },
+    "label": 0.74
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 82,
+      "time_match_score": 0.34,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 91,
+      "time_match_score": 0.24,
+      "author_branch_similarity": false
+    },
+    "label": 0.42
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 45,
+      "time_match_score": 0.27,
+      "author_branch_similarity": false
+    },
+    "label": 0.63
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 74,
+      "time_match_score": 0.58,
+      "author_branch_similarity": true
+    },
+    "label": 0.76
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 15,
+      "time_match_score": 0.25,
+      "author_branch_similarity": true
+    },
+    "label": 0.62
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 12,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 25,
+      "time_match_score": 0.29,
+      "author_branch_similarity": true
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 44,
+      "time_match_score": 0.42,
+      "author_branch_similarity": false
+    },
+    "label": 0.34
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 29,
+      "time_match_score": 0.43,
+      "author_branch_similarity": true
+    },
+    "label": 0.64
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 64,
+      "time_match_score": 0.23,
+      "author_branch_similarity": true
+    },
+    "label": 0.72
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 40,
+      "time_match_score": 0.6,
+      "author_branch_similarity": false
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 37,
+      "time_match_score": 0.34,
+      "author_branch_similarity": false
+    },
+    "label": 0.33
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 76,
+      "time_match_score": 0.51,
+      "author_branch_similarity": false
+    },
+    "label": 0.45
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 86,
+      "time_match_score": 0.39,
+      "author_branch_similarity": true
+    },
+    "label": 0.44
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 94,
+      "time_match_score": 0.33,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": false,
+      "is_buddy_post": false,
+      "content_type": "poll",
+      "karma": 91,
+      "time_match_score": 0.29,
+      "author_branch_similarity": false
+    },
+    "label": 0.43
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 16,
+      "time_match_score": 0.58,
+      "author_branch_similarity": true
+    },
+    "label": 0.66
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 77,
+      "time_match_score": 0.28,
+      "author_branch_similarity": false
+    },
+    "label": 0.73
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 6,
+      "time_match_score": 0.48,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 61,
+      "time_match_score": 1.0,
+      "author_branch_similarity": false
+    },
+    "label": 0.8
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "video",
+      "karma": 31,
+      "time_match_score": 0.49,
+      "author_branch_similarity": true
+    },
+    "label": 0.65
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "image",
+      "karma": 29,
+      "time_match_score": 1.0,
+      "author_branch_similarity": true
+    },
+    "label": 0.7
+  },
+  {
+    "features": {
+      "user_follows_tag": true,
+      "is_buddy_post": false,
+      "content_type": "text",
+      "karma": 90,
+      "time_match_score": 0.29,
+      "author_branch_similarity": true
+    },
+    "label": 0.73
+  }
+]
